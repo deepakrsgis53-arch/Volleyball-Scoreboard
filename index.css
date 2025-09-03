@@ -1,0 +1,73 @@
+body {
+    background-image: url(asdf.webp);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    font-weight: bolder;
+    background-size: cover;
+    text-align: center;
+}
+
+.container {
+    background-color: aliceblue;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+h1 {
+    font-size: larger;
+    font-weight: bold;
+    background-color: black;
+    color: blue;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+
+h2 {
+    font-size: large;
+    font-weight: bold;
+    background-color: white;
+    color: brown;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+
+h3 {
+    font-size: large;
+    font-weight: bold;
+    background-color: green;
+    color: gray;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+
+#incrementa1-btn {
+    background-color: blue;
+}
+#incrementa3-btn {
+    background-color: blue;
+}
+#incrementa5-btn {
+    background-color: blue;
+}
+#incrementb1-btn {
+    background-color: blue;
+}
+#incrementb3-btn {
+    background-color: blue;
+}
+#incrementb5-btn {
+    background-color: blue;
+}
+
+#counta {
+    font-weight: bold;
+}
+#countb {
+    font-weight: bold;
+}
